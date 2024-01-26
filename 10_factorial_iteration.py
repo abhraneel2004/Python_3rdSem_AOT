@@ -5,4 +5,4 @@ for i in range(2,n+1):
 	
 print("Factorial of", n,"is",f)
 
-#without recursion
+#factorial printing without recursion
