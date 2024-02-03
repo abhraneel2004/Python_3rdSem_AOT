@@ -1,3 +1,16 @@
+'''
+
+   1 
+  1 2 
+ 1 2 3 
+1 2 3 4
+ 1 2 3
+  1 2
+   1
+
+'''
+
+
 n = int(input("Enter The number of rows:    "))
 for i in range(1,n+1):
     print(" "*(n-i), end = '')
