@@ -5,7 +5,13 @@ def removeDup(str1):
     for i in l:
         if i not in m:
             m.append(i)
-    print(m)
+    # print(m)
+    '''
+        "-".join(['a', 'b', 'c', 'd', 'e', 'f]) = "a-b-c-d-e-f"
+
+        "%".join(['a', 'b', 'c', 'd', 'e','f']) = "a%b%c%d%e%f"
+        
+    '''
     return "".join(list(m))
 
 print(removeDup(input("Enter the string: ")))

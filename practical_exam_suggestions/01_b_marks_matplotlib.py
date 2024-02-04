@@ -1,5 +1,4 @@
 from matplotlib import pyplot as plt
-from numpy import *
 
 y1 = [87,88,90,94,95]
 y2 = [76, 89,85,81,90]

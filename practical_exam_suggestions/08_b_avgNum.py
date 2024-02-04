@@ -1,7 +1,6 @@
 
 def avg_nums(str):
-    q = str[-1]
-    if q=='q':
+    if str[-1]=='q':
         str2 = str[:-2:]
         l = str2.split(' ')
         l = [int(i) for i in l]
@@ -12,3 +11,14 @@ def avg_nums(str):
 
 s = input("Enter the string: ")
 avg_nums(s)
+
+
+'''
+
+input: 1 2 3
+str2 = "1 2 3"  
+l = ['1','2','3']
+l = []
+
+'''
+

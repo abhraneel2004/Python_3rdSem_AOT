@@ -1,6 +1,5 @@
 
 def leapyear(year):
-    print('here1')
     if (year%4==0):
         if (year%100==0 and year%400!=0):
             return False

@@ -11,3 +11,8 @@ if(idx==-1):
     print(f"The substring: {sb} not found in the string")
 else:
     print(f"The last index of the substring: {sb} is {idx}")
+
+
+'''
+ema watson played hermione in harry potter. ema ki bichiri dekhte.
+'''
