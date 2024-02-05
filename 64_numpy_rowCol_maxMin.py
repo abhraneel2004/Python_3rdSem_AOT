@@ -3,8 +3,7 @@ print("For Matrix 1")
 
 ar1 = np.array([[1,2,3],[4,5,6],[7,8,9]])
 
-a3 = np.arange(24)
-b = a3.reshape(2,4,3)
+
 
 # print("Row wise minimum")
 

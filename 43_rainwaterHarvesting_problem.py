@@ -2,6 +2,9 @@
 
 
 '''
+
+# Without Slicing
+
 a = [0,1,0,2,1,0,1,3,2,1,2,1]
 b= len(a)
 water = 0
@@ -20,6 +23,9 @@ for i in range(1,b-1):
 print(water)
 
 '''
+
+# With Slicing
+
 a = [0,1,0,2,1,0,1,3,2,1,2,1]
 b= len(a)
 water = 0
@@ -31,4 +37,4 @@ for i in range(1,b-1):
 	
 	water += min(left, right) - a[i]
 print(water)
-#'''
+
