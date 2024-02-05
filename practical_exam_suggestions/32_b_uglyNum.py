@@ -17,7 +17,16 @@ def uglyNum(n):
     if n==1:
         return True
     l = factors(n)
+
     l2 = [i for i in l if primenum(i)==True]
+
+    '''
+    l2=[]
+    for i in l:
+        if primenum(i):
+            l2.append(i)
+    '''
+    
     for i in l2:
         if i not in (2,3,5):
             return False
