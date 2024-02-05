@@ -8,3 +8,6 @@ def sumpos( *args):
 
 a = eval(input("Enter arguments: "))
 print(sumpos(a))
+
+
+# *args -> variable length arguments

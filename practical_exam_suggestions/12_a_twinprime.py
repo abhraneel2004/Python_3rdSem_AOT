@@ -12,6 +12,7 @@ l = []
 for i in range(n+1):
     if (primenum(i)):
         l.append(i)
+
 j = 0
 l2 = []
 while j<len(l):

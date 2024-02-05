@@ -1,13 +1,11 @@
 
 
 def leapyear(temp):
-	if temp%4==0:
-		if temp%100==0 and temp%400!=0:
+	if not temp%4:
+		if not temp%100 and temp%400:
 			return 28
-		else:
-			return 29
-	else:
-		return 28
+		return 29
+	return 28
 
 
 d = [31,28,31,30,31,30,31,31,30,31,30,31]
