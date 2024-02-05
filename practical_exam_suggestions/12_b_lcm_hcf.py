@@ -7,7 +7,7 @@ def hcf(max_, min_):
     return hcf_
 
 def lcm(max_, min_):
-    return (max_*min_)/hcf(max_, min_)
+    return (max_ * min_)/hcf(max_, min_)
 
 
 a = int(input("Enter first number: "))
