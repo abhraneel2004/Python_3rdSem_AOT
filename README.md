@@ -4,7 +4,58 @@ Welcome to the Python repository! This repository contains an introduction to Py
 
 ## Installation and Setup
 
+### 1. Python
+### Python 3.12 Installation and Setup Guide
 
+Before installing Python 3.12, ensure that your system meets the following requirements:
+
+- Operating System: Windows, macOS, or Linux
+- Minimum RAM: 1 GB
+- Disk Space: 200 MB for Python installation
+
+#### Steps to Install Python 3.12:
+
+1. **Download Python 3.12:**
+
+   Visit the [Python Downloads](https://www.python.org/downloads/) page and select the appropriate installer for your operating system.
+
+2. **Run the Installer:**
+
+   For Windows, double-click the downloaded `.exe` file and follow the installation wizard prompts. Ensure to check the box that says "Add Python 3.12 to PATH" during installation.
+
+   For macOS and Linux, open a terminal window, navigate to the directory containing the downloaded installer, and run the following command:
+
+   ```bash
+   $ sudo ./python-3.12.0-macosx10.9.pkg
+   ```
+
+   Replace `python-3.12.0-macosx10.9.pkg` with the name of the downloaded installer file.
+
+3. **Verify Python Installation:**
+
+   After installation, open a terminal or command prompt and enter the following command to verify that Python 3.12 has been installed successfully:
+
+   ```bash
+   $ python3 --version
+   ```
+
+   You should see an output similar to `Python 3.12.0`.
+
+4. **Update pip (Python Package Manager):**
+
+   It is recommended to update pip to the latest version. Run the following command:
+
+   ```bash
+   $ python3 -m pip install --upgrade pip
+   ```
+
+#### System Requirements for Python 3.12:
+
+- Operating System: Windows 7 and later, macOS 10.12 and later, Ubuntu 16.04 and later
+- Minimum RAM: 1 GB
+- Disk Space: 200 MB for Python installation
+
+Follow these steps to install and set up Python 3.12 on your machine. Enjoy coding with Python!
 
 ### 2. VS Code
 
