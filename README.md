@@ -1,10 +1,18 @@
-# Python Laboratory Codes 3rd Semester B. Tech (Academy Of Technology)
+<div align="center">
+   <h1><span> <img src = "https://github.com/abhraneel2004/Python_3rdSem_AOT/assets/115551450/56ac43ed-2372-43c6-b976-c40018142900" style="width:5%;"></span> &nbsp;&nbsp; Python Lab Codes 3rd Semester B. Tech <br> (Academy Of Technology)</h1>
+</div>
+
+
 Welcome to the Python repository! This repository contains an introduction to Python. Whether you're a beginner looking to learn or an experienced developer seeking reference implementations, you've come to the right place.
+
 
 
 ## Installation and Setup
 
-### 1. Python
+
+<h3><span> <img src = "https://github.com/abhraneel2004/Python_3rdSem_AOT/assets/115551450/f4dc76db-2a14-45cc-a84a-51d1d2e57fab" style="width:5%;"></span> &nbsp;&nbsp;1. Python</h3>
+
+
 ### Python 3.12 Installation and Setup Guide
 
 Before installing Python 3.12, ensure that your system meets the following requirements:
@@ -57,13 +65,15 @@ Before installing Python 3.12, ensure that your system meets the following requi
 
 Follow these steps to install and set up Python 3.12 on your machine. Enjoy coding with Python!
 
-### 2. VS Code
+
+<h3><span> <img src = "https://imgs.search.brave.com/sCF1JLPenzY1EtuDQz-eFOhtLagrzftJZ-mrulFeiyI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzlhL1Zpc3VhbF9T/dHVkaW9fQ29kZV8x/LjM1X2ljb24uc3Zn.svg" style="width:5%;"></span> &nbsp;&nbsp;2. VS Code</h3>
 
 Download and install [Visual Studio Code](https://code.visualstudio.com/). This repository is configured with a `.vscode` folder containing useful settings for your coding environment.
 
 Certainly! Below is an explanation of the commands for forking and contributing to a GitHub repository, formatted for easy copying and pasting:
 
 ## Forking the Repository
+
 
 1. **Fork the repository:** Click the "Fork" button at the top right of the repository page. This creates a copy of the repository in your GitHub account.
 
@@ -79,7 +89,8 @@ Certainly! Below is an explanation of the commands for forking and contributing 
 
    ![Clone](gifs/clone.gif)
 
-## Contributing
+<h2><span> <img src = "https://github.com/abhraneel2004/Python_3rdSem_AOT/assets/115551450/e5077e59-34db-4c31-a2eb-c58173790315" style="width:5%;"></span> &nbsp;&nbsp;Contributing</h2>
+
 
 ### Overview:
 
@@ -131,7 +142,29 @@ Certainly! Below is an explanation of the commands for forking and contributing 
    ![Create Pull Request](gifs/create_pr.gif)
 
 ## Points to remember:
-- Add only code file i.e .py file
 
+<ul>
+   <li>
+      Add only code file i.e .py file
+   </li>
+   <li>
+      <img src = "https://github.com/abhraneel2004/Python_3rdSem_AOT/assets/115551450/48651bde-e08b-4e6c-a8be-8d253334b70f" style="width: 70px;">
+   </li>
+
+</ul>
+
+
+
+## Acknowledgments
+
+We appreciate the open-source community and contributors for making this project better every day. Special thanks to [GitHub](https://github.com/) for providing an excellent platform for collaboration.
+
+---
+
+**Note:** Replace `filename` and `output_name` with the appropriate names for your code file and desired output executable.
+
+<div align="center">
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxuMDFyZnJpenRnN2xsem12anhocDY3Z2dpODl0ZThkMnd5MTcwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  align="center" style="width: 40vw; height: 20vw; overflow:hidden; " >
+</div>
 
 
